@@ -4,6 +4,7 @@
 * glad
 * glfw
 * glm
+* fastnoise
 * stb_image.h
 
 install them all with `install_libraries.sh`

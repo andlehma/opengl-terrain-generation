@@ -19,6 +19,7 @@ include_directories(Headers/
                     Vendor/glad/include/
                     Vendor/glfw/include/
                     Vendor/glm/
+                    Vendor/FastNoise/
                     Vendor/stb)
 
 file(GLOB VENDORS_SOURCES Vendor/glad/src/glad.c)

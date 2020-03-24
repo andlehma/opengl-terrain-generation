@@ -2,7 +2,7 @@
 
 #include <vector>
 #include <glm/glm.hpp>
-#include "FastNoise.h"
+#include <FastNoise.h>
 
 struct Chunk
 {
